@@ -1,0 +1,14 @@
+.bor{
+    border: 5px solid green ;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+.font{
+    font-size: 50px;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3FmJyQEfXX8AJE4GaD3gLSHrWHNTVp1zbqDaF8YJaQ&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
